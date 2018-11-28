@@ -8,4 +8,6 @@ Arduino and Android source code are included as well for your references.
 
 To view android source code, please follow the this instruction: src -> main -> java/com/example/weijie/i_bag
 
+You may install the Android Apps by downloading the "atm_bag.apk"
+
 Thanks.
