@@ -11,5 +11,3 @@ To view android source code, please follow the this instruction: src -> main -> 
 You may install the Android Apps by downloading the "atm_bag.apk"
 
 Thanks.
-
-haha
